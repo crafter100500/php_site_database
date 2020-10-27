@@ -143,6 +143,11 @@
 		</div>
 	</div>
 
+	<form action="http://20urokNM/delete.php">
+		<input type="text" name="id">
+		<button>SEND</button>
+	</form>
+
 	<div class="col-12">
 		<div class="col-12" style="height: 1500px;">
 			<div class="row mt-5">
